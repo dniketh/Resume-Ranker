@@ -1,0 +1,141 @@
+--- Resume_Niketh_Latest.pdf ---
+Niketh Damodaran 
++61-0468-413-140 
+dniketh@gmail.com 
+ 
+Career Overview 
+Motivated master’s student in Data Science with over three years of experience in financial software development at 
+Oracle. Proven expertise in designing robust solutions using Java, Oracle SQL, and Python. Skilled in data analysis, 
+machine learning, and agile project management. Eager to apply technical and analytical expertise to innovate AI-driven 
+solutions for real-world business challenges. 
+  
+Work Experience 
+Staff Consultant (Oracle Banking Platform) 
+September 2020 - January 2024 
+Oracle Financial Services Software, Bengaluru, India 
+  
+• 
+Collaborated with analysts and clients to gather and implement over 50 new client requirements, ensuring 
+alignment with specifications. 
+• 
+Analysed product requirements, custom-designed solutions, and troubleshooted complex banking applications, 
+collaborating with teams across India and Sydney to fulfill over 30 correspondence requirements in Westpac's 
+Banking Platform. 
+• 
+Improved product stability, resolving over 100 plus production incidents raised by clients. 
+• 
+Demonstrated leadership by onboarding and mentoring new college graduates. 
+• 
+Executed knowledge transfer sessions and project-specific training, enabling junior developers to contribute 
+effectively. 
+  
+Skills Summary 
+Interpersonal Team Skills - Showcased strong teamwork by cooperating with cross-departmental teams in India and 
+Sydney to meet client specifications for Westpac Banking Corporation. 
+Customer Service - Delivered exceptional customer service in previous roles, ensuring customer satisfaction and 
+resolving issues promptly. 
+Mentorship skills - Demonstrated leadership and mentoring abilities by onboarding new college graduates, conducting 
+knowledge transfer sessions, and delivering project-specific training to enable their contributions. 
+Technical Skills - Experienced in software development with over three years of experience in Java, Oracle SQL, JPA, Java 
+Web Services and Enterprise software architecture. Skilled in Python, Data Visualization Tools (Tableau) and Machine 
+Learning. 
+Time Management - As part of the application production support team, demonstrated crucial time allocation skills to 
+manage quick response time and deliver accurate workarounds. 
+  
+Client Projects 
+Staff Consultant 
+ 
+Correspondence Document Generation - Oracle Banking Platform, Bengaluru, India 
+  
+• 
+Developed outbound document generation functionality for loan submissions using Java and JAXB, ensuring 
+accurate and timely document creation. 
+• 
+Integrated document generation service with the Oracle Documaker system to automate document creation, 
+formatting, and distribution. 
+• 
+Liaised with one business analyst and documaker development team to gather requirements and ensure system 
+met all compliance and operational needs. 
+• 
+Conducted extensive testing with OBP testers to ensure the accuracy and reliability of generated documents. 
+Provided comprehensive documentation and training for end-users and support teams to facilitate smooth adoption 
+and ongoing maintenance. 
+ 
+ 
+  
+Staff Consultant 
+ 
+Alerts System- Oracle Banking Platform, Bengaluru, India 
+  
+• 
+Built alert system for over ten loan submission events, ensuring seamless integration with existing banking 
+application workflow. 
+• 
+Collaborated with the Westpac Instant Mortgage team and two business analysts to define requirements and design 
+specifications for alert functionality. 
+• 
+Implemented and supported real-time notifications and alert mechanisms to improve customer experience and 
+operational efficiency. 
+• 
+Overseen and advised rigorous testing and troubleshooting to ensure the reliability and performance of the alert 
+system. 
+• 
+Provided post-implementation support and resolved any issues to maintain system stability. 
+• 
+Utilised Java, Oracle SQL, Oracle Service Bus, and Java Web Services to deliver a robust alert system. 
+  
+Staff Consultant 
+ 
+Decipha Document Upload Framework, Bengaluru, India 
+  
+• 
+Handled the Java development for the Decipha Document Upload Framework, focusing on building efficient 
+backend services. 
+• 
+Associated within a team to integrate the framework with existing OBP workflow using Java, Shell Script, and Oracle 
+Data Integrator (ODI). 
+• 
+Developed core functionalities for document upload, ensuring robust error handling and data validation. 
+• 
+Cooperated closely with team members responsible for Shell Script automation and Oracle Data Integrator tool 
+integration to maintain seamless data flow and system integration. 
+  
+Academic Work 
+• 
+Data Visualisation and Narratives - As part of coursework, analysed how music impacts people's mental health and 
+impact of streaming services on listening habits. Python and Tableau were used to analyse the publicly available 
+data (Kaggle). The analysis found that the consumption of streaming services is more prominent among youth, and 
+any specific genre does not profoundly impact others. Overall, music does help with mental health benefits. 
+• 
+Data Science - Tested five machine learning models, i.e. Logistic Regression, Random Forest Classifier, K Nearest 
+Neighbour Classifier and XGBoost classifier, to predict the obesity level of an individual based on the physical and 
+eating habits. Analysing data from Colombia, Peru, and Mexico, the study provides valuable insights into the 
+predictors of obesity, demonstrating the effectiveness of machine learning models in health prediction tasks. The 
+correlation between family history and obesity levels highlights the importance of genetic and environmental 
+factors in obesity. 
+• 
+Machine Learning - Applied machine learning techniques, including Local Outlier Factor (LOF) and One-Class SVM, 
+for anomaly detection in transaction patterns across age groups. Achieved a 90% recall rate with the LOF model, 
+significantly enhancing fraud detection, reducing manual reviews, and mitigating potential fraud losses. 
+  
+Education 
+Master of Data Science and Innovation 
+February 2024 - December 2025 
+University of Technology Sydney (UTS)  
+• 
+GPA - 6.67/7 
+  
+Bachelor of Technology in Computer Science and Engineering 
+August 2016 - July 2020 
+Government Engineering College  
+• 
+GPA: 8.58/10. 
+  
+Awards and Recognitions 
+• 
+Rising Star Award from Oracle - For exhibiting quick learning capabilities, adopting new working practices as a new 
+team member, and making a valuable contribution. 
+• 
+Indian Prime Minister's Merit Scholarship - For Academic excellence throughout undergraduate studies. 
+
+
