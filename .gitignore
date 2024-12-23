@@ -1,2 +1,8 @@
 
 .DS_Store
+__pycache__
+*.pyc
+*.env
+*.log
+*.pdf
+resources/job_description/Data_Scientist_JD.txt
