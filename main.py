@@ -51,5 +51,3 @@ def get_job_description(file_path):
 
 job_description = get_job_description(JOB_DESCRIPTION_FILE)
 rank_resumes(job_description, RESUME_PATH)
-
-
